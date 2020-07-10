@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/minesweeper/static/css/main.1fe6e4cc.chunk.css",
+    "main.js": "/minesweeper/static/js/main.229ec00c.chunk.js",
+    "main.js.map": "/minesweeper/static/js/main.229ec00c.chunk.js.map",
+    "runtime-main.js": "/minesweeper/static/js/runtime-main.d1df0494.js",
+    "runtime-main.js.map": "/minesweeper/static/js/runtime-main.d1df0494.js.map",
+    "static/js/2.2ed9827b.chunk.js": "/minesweeper/static/js/2.2ed9827b.chunk.js",
+    "static/js/2.2ed9827b.chunk.js.map": "/minesweeper/static/js/2.2ed9827b.chunk.js.map",
+    "index.html": "/minesweeper/index.html",
+    "precache-manifest.4da1d4493452363c928afa949b40973a.js": "/minesweeper/precache-manifest.4da1d4493452363c928afa949b40973a.js",
+    "service-worker.js": "/minesweeper/service-worker.js",
+    "static/css/main.1fe6e4cc.chunk.css.map": "/minesweeper/static/css/main.1fe6e4cc.chunk.css.map",
+    "static/js/2.2ed9827b.chunk.js.LICENSE.txt": "/minesweeper/static/js/2.2ed9827b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/minesweeper/static/media/NewPatagonia-Regular.96328cee.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1df0494.js",
+    "static/js/2.2ed9827b.chunk.js",
+    "static/css/main.1fe6e4cc.chunk.css",
+    "static/js/main.229ec00c.chunk.js"
+  ]
+}
